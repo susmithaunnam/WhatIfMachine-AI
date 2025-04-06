@@ -60,26 +60,26 @@ def hello_world():
 //MENTIONS
 @username 
 
-//GIT BASIC COMMANDS
-/Initialize a new repository
-git init
-//Clone an existing repository
-git clone https://github.com/user/repo.git
-//Check repository status
-git status
-//Stage all changes
-git add .
-//Commit changes
-git commit -m "Commit message"
-// Push to remote
-git push origin main
-//BRANCHING
-//Create new branch
-git branch new-feature
-//Switch to branch
-git checkout new-feature
-//Create and switch to new branch
-git checkout -b new-feature
-//Merge branch
-git checkout main
-git merge new-feature
+- //GIT BASIC COMMANDS
+- /Initialize a new repository
+- git init
+- //Clone an existing repository
+- git clone https://github.com/user/repo.git
+- //Check repository status
+- git status
+- //Stage all changes
+- git add .
+- //Commit changes
+- git commit -m "Commit message"
+- // Push to remote
+- git push origin main
+- //BRANCHING
+- //Create new branch
+- git branch new-feature
+- //Switch to branch
+- git checkout new-feature
+- //Create and switch to new branch
+- git checkout -b new-feature
+- //Merge branch
+- git checkout main
+- git merge new-feature
